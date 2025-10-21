@@ -1,2 +1,2 @@
 # AI-FRS-dataset
-Public dataset from the paper 
+The dataset from the AI-FRS article will be available here once the registration processes are complete.
